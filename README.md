@@ -16,6 +16,8 @@ LLM工具合集，不管以什么形式，首先要有工具列表和使用办�
   - https://openapi.meituan.com/
   - TODO：
     - 如何接入
-
-
+## 4. B站搜索
+  - https://github.com/SocialSisterYi/bilibili-API-collect/tree/master
+  - TODO：
+    - 搜索接口
 
